@@ -1,7 +1,30 @@
-- 👋 Hi, I’m @jhin1m
-- 👀 I’m interested in PHP
+# jhin1m
 
-<!---
-jhin1m/jhin1m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Web Developer | Freelancer  
+Hiện tại đang học Next.js. Làm việc chủ yếu với PHP & Laravel.
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- PHP / Laravel
+- JavaScript / Next.js (đang học)
+- HTML / CSS
+
+---
+
+## 📂 Dự án cá nhân
+
+- [Blog cá nhân](https://github.com/jhin1m/jhin1m.github.io)
+
+---
+
+## 📫 Liên hệ
+
+- Facebook: [jhin1m](https://facebook.com/jhin1m)
+
+---
+
+## ⚡ Khác
+
+Thích chơi guitar & game, rảnh thì học thêm tech mới.
