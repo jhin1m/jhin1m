@@ -9,7 +9,7 @@
 
 Hi, I'm jhin1m — freelance web developer.  
 Focused on building clean, functional websites.  
-Currently diving deep into **Next.js**.
+Currently diving deep into **Laravel**.
 
 ---
 
@@ -29,10 +29,10 @@ Currently diving deep into **Next.js**.
 
 ### 📫 Contact
 
-- Facebook: [jhin1m](https://facebook.com/jhin1m)
+- Facebook: [jh1nxd](https://facebook.com/jh1nxd)
 
 ---
 
 ### 🎧 Offline Mode
 
-> Guitar & Games – when not coding.
+> Smoke weed.
