@@ -21,9 +21,9 @@ Currently diving deep into **Laravel**.
 
 ---
 
-### 📁 Projects
+### 📁 Blog
 
-- [Blog cá nhân](https://github.com/jhin1m/jhin1m.github.io)
+- [Blog cá nhân](https://jhin1m.github.io)
 
 ---
 
