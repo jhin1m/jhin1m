@@ -16,23 +16,23 @@ Currently diving deep into **Laravel**.
 ### 🛠️ Tech Stack
 
 - **Backend:** PHP / Laravel
-- **Frontend:** HTML, CSS, JS, Next.js (learning)
+- **Frontend:** HTML, CSS, JS, Next.js
 - **Tools:** Git, VS Code, Postman
 
 ---
 
 ### 📁 Blog
 
-- [Blog cá nhân](https://jhin1m.github.io)
+- [jhin1m](https://jhin1m.github.io)
 
 ---
 
 ### 📫 Contact
 
-- Facebook: [jh1nxd](https://facebook.com/jh1nxd)
+- Facebook: [jhin1m](https://facebook.com/jhin1m)
 
 ---
 
 ### 🎧 Offline Mode
 
-> Smoke weed.
+> Smoke.
